@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nanotelegram/git-test-react.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nanotelegram/git-test-react.git/static/js/main.de204abc.chunk.js",
+    "main.js.map": "/nanotelegram/git-test-react.git/static/js/main.de204abc.chunk.js.map",
+    "runtime-main.js": "/nanotelegram/git-test-react.git/static/js/runtime-main.2e4b0e72.js",
+    "runtime-main.js.map": "/nanotelegram/git-test-react.git/static/js/runtime-main.2e4b0e72.js.map",
+    "static/js/2.b3dc571a.chunk.js": "/nanotelegram/git-test-react.git/static/js/2.b3dc571a.chunk.js",
+    "static/js/2.b3dc571a.chunk.js.map": "/nanotelegram/git-test-react.git/static/js/2.b3dc571a.chunk.js.map",
+    "index.html": "/nanotelegram/git-test-react.git/index.html",
+    "precache-manifest.3a55933f302b9b12fae8342d9e14e9bc.js": "/nanotelegram/git-test-react.git/precache-manifest.3a55933f302b9b12fae8342d9e14e9bc.js",
+    "service-worker.js": "/nanotelegram/git-test-react.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nanotelegram/git-test-react.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b3dc571a.chunk.js.LICENSE.txt": "/nanotelegram/git-test-react.git/static/js/2.b3dc571a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nanotelegram/git-test-react.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4b0e72.js",
+    "static/js/2.b3dc571a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.de204abc.chunk.js"
+  ]
+}
